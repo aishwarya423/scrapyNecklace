@@ -1,0 +1,2 @@
+# scrapyNecklace
+web scraping assignment
